@@ -695,7 +695,7 @@
       "label": "ℹ️ Secret Proxy Path"
     },
     "proxy_path_admin": {
-      "description": "We use secret proxy path to hide our proxies for the governments and  bots",
+      "description": "We use secret proxy path to hide our proxies for the governments and bots",
       "label": "🔐 Proxy Path for Admins"
     },
     "proxy_path_client": {
